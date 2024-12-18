@@ -2190,3 +2190,7 @@ body.dark-arshia , .dark-arshia .ajax-page-content{
       background-color: #535455  !important;
   }
 }
+
+#color-switcher {
+  display: none !important;
+}
